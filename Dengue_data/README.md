@@ -27,7 +27,7 @@ In table 1 we present the values for the variable "class_fin", which changes ove
 
 The files presented in this folder can be used to:
 
- * extract variables of the original dataset to perform specific studies;
+ * extract variables of the original dataset to perform specific studies, filtered according to the classifications of a case;
  * clean and aggregate the data to be used in statistical/ mathematical models.
 
 # References
