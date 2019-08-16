@@ -3,7 +3,7 @@
 
 The first step to understand the process data of diseases are collected is searching the definition of a case. We use data from the Brazilian National Notifiable Diseases Information System (SINAN). We further separated the cases into confirmed and discarded, following the final classification information as used by the Brazilian Ministry of Health. Confirmed cases are all suspected cases of the disease, excluding those discarded or inconclusive. This classification can be based on clinical/epidemiological criteria, namely presence of clinical symptoms in the same area and time as other probable cases, or on clinical/laboratory criteria, namely the presence  of clinical symptoms and a positive IgM ELISA result, viral RNA detection via PCR, NS1 viral antigen detection, or positive viral culture. Discarded cases are defined as any suspected case that satisfies at least one of the following criteria: negative laboratory diagnosis (IgM serology); a laboratory confirmation of another disease; clinical and epidemiological compatibility with other diseases. Still, there are inconclusive cases that were assigned as one of the designations before. 
 
-# Dengue final classification
+## Dengue final classification
 
 In table 1 we present the values for the variable "class_fin", which changes over time. The values in the variable classify the reported cases on SINAN according to 1-Dengue Clássico, 2 - Dengue com Complicações, 3 - Febre Hemorrágica do Dengue, 4 -Síndrome do choque da Dengue, 5 - Descartado, 10- Dengue, 11- Dengue com Sinais de Alarme, 12- Dengue Grave, 8 - Inconclusivo.  
 
@@ -22,6 +22,8 @@ In table 1 we present the values for the variable "class_fin", which changes ove
 |                      Total "Dengue descartado (5)" | 354145 | 353708 | 352987 | 561799  | 344140 | 697432  | 197316 | 275235 | 154668 |
 |                           Total "Inconclusivo (8)" | 130151 | 96431  | 186772 | 271365  | 96874  | 310162  | 120078 | 75169  | 58733  |
 |                                  Total null values | 27723  | 78587  | 9875   | 108130  | 26444  | 3794    | 238    | 5996   | 14116  |
+
+# Objective 
 
 The files presented in this folder can be used to:
 
