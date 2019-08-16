@@ -23,7 +23,7 @@ In table 1 we present the values for the variable "class_fin", which changes ove
 |                           Total "Inconclusivo (8)" | 130151 | 96431  | 186772 | 271365  | 96874  | 310162  | 120078 | 75169  | 58733  |
 |                                  Total null values | 27723  | 78587  | 9875   | 108130  | 26444  | 3794    | 238    | 5996   | 14116  |
 
-#The files presented in this folder can be used to:
+# The files presented in this folder can be used to:
 
  extract variables of the original dataset to perform specific studies;
 clean and aggregate the data to be used in statistical/ mathematical models.
