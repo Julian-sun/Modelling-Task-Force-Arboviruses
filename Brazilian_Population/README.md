@@ -1,5 +1,5 @@
 
-# Populational size estimation
+# Populational size of Brazil
 
 The size of the population in a country is crucial for epidemiological studies. Despite this,  estimations of population size by sub-geographical regions and sub-classes are a difficult task. 
 
