@@ -7,4 +7,4 @@ The standards census estimations of the population of a country happen every ten
 
 Once inter-census populational size measures are given in year one, $y_{1}$,  and year two, $y_{2} = y_{1} + 10$,  estimations of the population size in between this period are done. Estimations after the period $y_{2}$ are extrapolations and usually cause overestimations of epidemiological measures, as relative risks of disease and so on. 
 
-The folder has the population size of Brasil, which was obtained by the Brazilian Institute of Geography and Statistics (IBGE). The folder will discuss possible problems in working with extrapolations and ho we will dell with this data to calculate indices, parameters, and factors that contribute to epidemiological studies. 
+The folder has the population size of Brasil, which was obtained by the Brazilian Institute of Geography and Statistics (IBGE). This work will discuss possible problems in dealing with extrapolations and how we will deal with this data to calculate indices, parameters, and factors that contribute to epidemiological studies. 
