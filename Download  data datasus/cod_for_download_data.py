@@ -182,7 +182,7 @@ for ifil in listdir[indexY]:
 
 # ftp://ftp.datasus.gov.br/dissemin/publicos/SINAN/DADOS/FINAIS/TETNES18.dbc
 
-comparar versao do bd
-oq nao tem baixa
-se tem nova versao baixa nova
-o q tem na pasta q nao tem no site
+# comparar versao do bd
+# oq nao tem baixa
+# se tem nova versao baixa nova
+# o q tem na pasta q nao tem no site
